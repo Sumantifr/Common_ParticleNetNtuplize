@@ -35,5 +35,4 @@ class MvaNtuplizer : public edm::one::EDAnalyzer<edm::one::SharedResources> {
   long int event;
   int luminosityBlock;
   int run;
-
 };
